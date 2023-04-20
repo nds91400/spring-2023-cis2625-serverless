@@ -1,0 +1,5 @@
+Using JSON as the data source
+1. Introducing the 3-tier architecture (Model-View-Controller)
+2. Instead of hard-coding the property information, it is good to create an object model to store the data.
+3. For the this project, JSON is used to store the each property data.
+4. Using the WEB PAI Fetch() processing the data

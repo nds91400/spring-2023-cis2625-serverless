@@ -1,0 +1,9 @@
+Changes:
+1. Add a detail html page to list the deatiled information for each property (create the page with bootstrap starter template).
+2. rename the script file name from app.js --> index.js
+3. Create a JSON data file for each property
+4. create a detailed javascript file to get the data from json file
+
+Background: How to Send GET and POST Requests with JavaScript Fetch API @
+https://medium.com/meta-box/how-to-send-get-and-post-requests-with-javascript-fetch-api-d0685b7ee6ed
+
